@@ -1,4 +1,4 @@
-# 🚀 FPS Coders Templates
+# 🚀 Templates
 
 🎉 **Bem-vindo ao repositório de templates!**
 
